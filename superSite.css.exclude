@@ -1,0 +1,20 @@
+ul{
+list-style-type: none;
+align-items: center;
+float: center;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;	
+background-color: #41a6de;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+padding-left: 15px;
+}
+

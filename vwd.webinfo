@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <comReferences>
+    <reference Name="interop.easendmailsvclib" ID="{3EEFD713-FC93-4428-9789-D9BB3BE6D67E}\1.0\0"/>
+    <reference Name="interop.easendmailsvcobjlib" ID="{A3B4F916-4026-4390-A83C-8DA7336225A1}\1.0\0"/>
+  </comReferences>
+
+  <iisExpressSettings sslPort="44318" windowsAuthentication="disabled" anonymousAuthentication="enabled" useClassicPipelineMode="false"/>
+</VisualWebDeveloper>

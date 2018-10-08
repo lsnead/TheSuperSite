@@ -1,0 +1,42 @@
+nav {
+	float: left;
+	background-color: #41a6de; 
+margin: 0;
+
+
+}
+
+nav ul { 
+list-style-type: none;
+		padding: 0;
+
+
+}
+nav li{
+    float: left; 
+    margin-left: 20px; 
+    margin-right: 20px;
+
+}
+
+nav a { 
+text-decoration: none;
+		color: #000000;
+		font-weight: bold;
+		font-size: 1.25em;
+		padding: 10px;
+ display: block; 
+		text-align: center;
+            padding-left: 10px;
+    padding-right: 10px
+}
+
+nav a:hover { font-size: 1.45em; }
+
+h1{
+    background-color: #d01e00;
+}
+
+body{
+     background-color: #fedb0e;
+}
